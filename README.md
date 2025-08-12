@@ -14,7 +14,6 @@ A personal kernel that only works for me :)
 - Virtualization support: maybe
 - Hibernation support: yes
 - Intel pstate: of course
-- IPV6 support: no
-- No NVME support
+- IPV6 support: no ⚡️
+- NVME support: no 🙄
 - Microcode: no
--- 
